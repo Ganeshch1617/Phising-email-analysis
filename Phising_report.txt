@@ -1,0 +1,51 @@
+To: Cybersecurity Internship Team
+From: [Chunduru Ganesh] <gch1618@gmail.com>
+Subject: Phishing Email Analysis Report - Task 2
+
+Dear Team,
+
+Please find below my analysis report for the suspicious email reviewed as part of Task 2.
+
+---
+
+📝 Email Summary:
+The email appears to be from "Amazon Security Team" with the sender address <security-alert@amaz0n-support.com>. It claims that the user’s Amazon account is locked due to suspicious activity and prompts the user to click a link for verification.
+
+---
+
+🚩 Phishing Indicators Identified:
+
+1. **Fake Sender Address**:
+   The sender email uses a lookalike domain: "amaz0n-support.com" instead of "amazon.com".
+
+2. **Suspicious Link**:
+   The link "https://amaz0n-support.com/verify" is a spoofed URL. Hovering shows a different and unsafe destination.
+
+3. **Urgency and Threat Language**:
+   The email tries to scare the user with statements like "Failure to verify... will result in permanent suspension".
+
+4. **Spelling / Domain Errors**:
+   The domain includes the number ‘0’ instead of the letter ‘o’ — a classic phishing tactic.
+
+5. **Social Engineering Tactic**:
+   It pressures the user into clicking the link quickly by using fear and urgency.
+
+---
+
+🛠 Tools/Methods Used:
+
+- Manual analysis of the email text and headers
+- Hovering over the embedded link to inspect real destination
+
+---
+
+✅ Conclusion:
+
+Based on the above indicators, this email is clearly a phishing attempt. It uses email spoofing, social engineering, and a fake link to trick the user into revealing credentials or other sensitive information.
+
+Report prepared by: [Chunduru Ganesh]  
+Task: Cybersecurity Internship – Task 2
+
+Best regards,  
+[Chunduru Ganesh]
+
