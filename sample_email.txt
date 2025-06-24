@@ -1,0 +1,17 @@
+From: Amazon Security Team <security-alert@amaz0n-support.com>
+Subject: Urgent: Account Locked Due to Suspicious Activity
+
+Dear Customer,
+
+We detected unusual login attempts to your Amazon account from an unknown device. For your security, we have temporarily suspended your account access.
+
+Please verify your account immediately by clicking the link below:
+
+https://amaz0n-support.com/verify
+
+Failure to verify within 24 hours will result in permanent account suspension.
+
+Sincerely,  
+Amazon Security Team
+
+NOTE: This is an automated message. Please do not reply.

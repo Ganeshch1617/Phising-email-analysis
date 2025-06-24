@@ -1,0 +1,20 @@
+Phishing Email Analysis Report
+
+📧 Email Summary:
+The email pretends to be from Amazon, warning the user that their account is locked due to suspicious activity.
+
+🚩 Phishing Indicators Found:
+1. Fake sender email: "security-alert@amaz0n-support.com" — not a valid Amazon domain.
+2. Suspicious link: "https://amaz0n-support.com/verify" — a spoofed domain using number ‘0’ instead of letter ‘o’.
+3. Urgent language: "Verify within 24 hours", "Account locked" — used to scare the user into quick action.
+4. Social engineering: The email plays on fear to manipulate the user.
+5. Grammar/spelling issue: Misspelling of "Amazon" as "amaz0n".
+
+🛠 Tools/Methods Used:
+- Manual inspection of email content
+- Hovered over links to verify their real destination
+
+✅ Conclusion:
+This email shows strong indicators of phishing and should not be trusted. The user should not click any links or respond.
+
+Report created by: [Your Full Name]
